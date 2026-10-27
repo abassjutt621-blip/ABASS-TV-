@@ -1,0 +1,7 @@
+{
+  "name": "ABASS TV",
+  "description": "Live television broadcast network, breaking news, entertainment, cinema, sports, cultural programming, and on-demand streaming.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
